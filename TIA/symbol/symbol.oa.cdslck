@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      cs199-cdt
+HostName                       eda-1.EECS.Berkeley.EDU
+ProcessIdentifier              1730625
+ProcessCreationTime_UTC        1753071874
+ProcessCreationTime_Readable   Sun Jul 20 21:24:34 2025 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/aa/users/cs199-cdt/cadence/TIA/TIA/symbol/symbol.oa.cdslck
+TimeEditLocked                 Sun Jul 20 21:32:05 2025 PDT
