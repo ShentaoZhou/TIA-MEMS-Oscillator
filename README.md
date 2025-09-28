@@ -14,3 +14,4 @@ The Barkhausen criterion for oscillator startup consists of two conditions:
    The total phase shift around the feedback loop at the same frequency must be an integer multiple of 360°:  
    `∠A_loop(jω₀) = 0° (mod 360°)`
 
+the gds/lef are the file needed for tapeout.
